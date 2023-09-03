@@ -1,0 +1,1 @@
+# OpenWrt-Lazy-config
